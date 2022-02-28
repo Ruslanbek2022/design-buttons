@@ -1,0 +1,87 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp2421589.png");
+  background-position:cover;
+  width: 100%;
+    background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+    
+  .primary {
+   border: none;
+   padding: 15px 30px;
+    margin:25px;
+    border-radius:3px;
+    background-color:transparent;
+    border: solid 1px;
+    color: #f01111;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    margin:30px;
+    position:relative;
+    top:-1px;
+    
+  }
+  
+  .secondary {
+     background-color:transparent;
+    border: solid 1px;
+    color: #f01111;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    padding: 20px 40px;
+    margin: 25px;
+    position:relative;
+    top:54px;
+  }
+  .succes {
+    padding: 15px 30px;
+    border-radius: 30px;
+     margin:25px;
+    background-color:transparent;
+    border: solid 1px;
+    color: #f01111;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    position:relative;
+    top:109px;
+  }
+  
+  .error {
+    padding: 12px 25px;
+    margin:25px;
+    background-color:transparent;
+    border: solid 1px;
+    color: #f01111;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    position:relative;
+    top:159px;
+  }
+  
+  .warning {
+    padding: 15px 30px;
+     margin:25px;
+    background-color:transparent;
+    border: solid 1px;
+    color: #f01111;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    position:relative;
+    top:207px;
+    
+  }
+  
+  .main{
+    
+   }
+  
+  footer{
+    paddin:5px;
+    margin-top:625px;
+    text-align: left;
+    color: #f01111;
+   font-family: 'Parisienne', cursive;
+    margin-left:499px;
+  }
